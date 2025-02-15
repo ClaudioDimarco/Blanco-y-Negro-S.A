@@ -1,2 +1,3 @@
-# proyecto
-AccionesBlancoyNegro
+# ProyectoBlancoyNegro
+En este proyecto se hara un analisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anonima que cotiza acciones y diversos instrumentos financieros en la Bolsa de Santiago. Este analisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversion, y, comprender a traves de los datos historicos el porque estas diferencias de precio a la baja o hacia el alza.
+Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-historical-data , en un archivo csv. Este archivo se limpio y se crearon nuevas columnas para facilitar su proyeccion y lectura en Power BI. Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
