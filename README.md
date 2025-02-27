@@ -1,5 +1,5 @@
 # ProyectoBlancoyNegro
-En este proyecto se hara un analisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos financieros en la Bolsa de Santiago. Este analisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversion. 
+En este proyecto se generara un analisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos financieros en la Bolsa de Santiago. Este analisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversion. 
 
 Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-historical-data , en un archivo csv. 
 
