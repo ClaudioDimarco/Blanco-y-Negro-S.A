@@ -56,7 +56,8 @@ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query
 
 
 
-Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
+Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
+Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
 
 
 
@@ -79,7 +80,8 @@ Para poder trabajar con los precios de las acciones y los datos de fecha se rela
 
 
 
-A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
+A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
+Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
 
 
 
@@ -129,7 +131,8 @@ En resumen, las empresas comienzan con muchas acciones para atraer inversionista
 
 
 
-A continuación se puede dilucidar como el rendimiento de las acciones se condice con bajadas y subidas de precio. Aunque con matices, ya que en el rendimiento de una accion estan asociados diversos factores, entre ellos el pago de dividendos, el cual aunque disminuya el precio de una accion, el rendimiento pueda aumentar. Tambien dependen de las distintas operaciones que maneje cada poseedor de acciones, desde las basicas: compra y venta, hasta las avanzadas: ventas en corto, opciones, contratos, recompra de acciones, etc.
+A continuación se puede dilucidar como el rendimiento de las acciones se condice con bajadas y subidas de precio. Aunque con matices, ya que en el rendimiento de una accion estan asociados diversos factores, entre ellos el pago de dividendos, el cual aunque disminuya el precio de una accion, el rendimiento pueda aumentar. 
+Tambien dependen de las distintas operaciones que maneje cada poseedor de acciones, desde las basicas: compra y venta, hasta las avanzadas: ventas en corto, opciones, contratos, recompra de acciones, etc.
 
 
 
