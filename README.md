@@ -7,7 +7,9 @@ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-histo
 
 
 
+
 ![Datos en bruto](https://github.com/user-attachments/assets/f13c837c-f3d5-499e-9821-6ba5b5e892af)
+
 
 
 
@@ -15,11 +17,14 @@ Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su 
 
 
 
+
 ![Datos transformados](https://github.com/user-attachments/assets/944b5892-99a3-47c0-8c3a-eec8271f37a7)
 
 
 
+
 Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
+
 
 
 
@@ -29,11 +34,14 @@ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de t
 
 
 
+
 ![final](https://github.com/user-attachments/assets/6ca15bf5-61d3-4381-b4c5-0364477f678b)
 
 
 
+
 Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
+
 
 
 
@@ -43,7 +51,9 @@ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query
 
 
 
+
 ![medidas](https://github.com/user-attachments/assets/1c388536-26c9-4c22-8201-f1bbb4cf7efe)
+
 
 
 Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
@@ -59,11 +69,13 @@ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y an
 ![Calendario 2](https://github.com/user-attachments/assets/3d61c652-5384-495c-825b-7183ba03701c)
 
 
+
 Para poder trabajar con los precios de las acciones y los datos de fecha se relaciona la nueva tabla Calendario junto con las fechas del set de datos original.
 
 
 
 ![Captura de pantalla 2025-02-27 121502](https://github.com/user-attachments/assets/6143028f-0f41-455c-9fa2-219a9696b4f8)
+
 
 
 
@@ -78,6 +90,7 @@ A continuación se procede al proceso de carga en el ambiente de Power BI para v
 
 
 ![medidas relevantes](https://github.com/user-attachments/assets/04dd0159-00af-4298-b040-fc769ae40371)
+
 
 
 
@@ -108,7 +121,11 @@ En resumen, las empresas comienzan con muchas acciones para atraer inversionista
 
 
 
+
+
 ![Medidas 1](https://github.com/user-attachments/assets/b2fc082c-142b-45f2-8dc5-4948c7dcaffc)
+
+
 
 
 
