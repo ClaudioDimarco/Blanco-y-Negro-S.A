@@ -2,6 +2,7 @@
 
 ◦ En este proyecto se generara un análisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos 
  financieros en la Bolsa de Santiago. 
+
 ◦ Este análisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversión. 
 
 ◦ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-historical-data , en un archivo csv. 
@@ -16,6 +17,7 @@
 
 
 ◦ Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. 
+
 ◦ Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. 
  Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
 
@@ -46,7 +48,9 @@
 
 
 ◦ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
+
 ◦ En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. 
+
 ◦ Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
 
 
@@ -64,6 +68,7 @@
 
 
 ◦ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
+
 ◦ Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
 
 
@@ -88,6 +93,7 @@
 
 
 ◦ A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
+
 ◦ Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
 
 
@@ -139,6 +145,7 @@ En resumen, las empresas comienzan con muchas acciones para atraer inversionista
 
 
 ◦ A continuación se puede dilucidar como el rendimiento de las acciones se condice con bajadas y subidas de precio. Aunque con matices, ya que en el rendimiento de una accion estan asociados diversos factores, entre ellos el pago de dividendos, el cual aunque disminuya el precio de una accion, el rendimiento pueda aumentar. 
+
 ◦ Tambien dependen de las distintas operaciones que maneje cada poseedor de acciones, desde las basicas: compra y venta, hasta las avanzadas: ventas en corto, opciones, contratos, recompra de acciones, etc.
 
 
