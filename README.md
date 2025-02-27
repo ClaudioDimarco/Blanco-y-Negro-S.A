@@ -5,11 +5,13 @@ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-histo
 
 
 
+
 ![Datos en bruto](https://github.com/user-attachments/assets/f13c837c-f3d5-499e-9821-6ba5b5e892af)
 
 
 
 Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
+
 
 
 ![Datos transformados](https://github.com/user-attachments/assets/944b5892-99a3-47c0-8c3a-eec8271f37a7)
@@ -20,7 +22,9 @@ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de t
 
 
 
+
 ![inicio](https://github.com/user-attachments/assets/f3062f31-ccab-4967-8042-7ab5417fb8ef)
+
 
 
 
@@ -32,7 +36,9 @@ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query
 
 
 
+
 ![tabla](https://github.com/user-attachments/assets/7bde054f-3e6b-4197-b17c-b4e719d951b4)
+
 
 
 
@@ -43,7 +49,9 @@ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y an
 
 
 
+
 ![calendario](https://github.com/user-attachments/assets/10f718f9-43ee-4aae-bedb-0c9102e44e74)
+
 
 
 
@@ -51,6 +59,7 @@ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y an
 
 
 Para poder trabajar con los precios de las acciones y los datos de fecha se relaciona la nueva tabla Calendario junto con las fechas del set de datos original.
+
 
 
 ![Captura de pantalla 2025-02-27 121502](https://github.com/user-attachments/assets/6143028f-0f41-455c-9fa2-219a9696b4f8)
@@ -61,11 +70,14 @@ A continuación se procede al proceso de carga en el ambiente de Power BI para v
 
 
 
+
 ![Presentacion](https://github.com/user-attachments/assets/9aff1be6-f4ae-4120-9eaf-796fcfce9470)
 
 
 
+
 ![medidas relevantes](https://github.com/user-attachments/assets/04dd0159-00af-4298-b040-fc769ae40371)
+
 
 
 En el grafico de volumen de acciones podemos entender el comportamiento de las Empresas en la emisión de acciones las cuales pueden ser explicadas por diferentes razones. Las empresas pueden emitir un gran número de acciones al principio y luego reducirlas por varias razones estratégicas y financieras:
@@ -94,6 +106,7 @@ En resumen, las empresas comienzan con muchas acciones para atraer inversionista
 
 
 
+
 ![Medidas 1](https://github.com/user-attachments/assets/b2fc082c-142b-45f2-8dc5-4948c7dcaffc)
 
 
@@ -102,7 +115,9 @@ A continuación se puede dilucidar como el rendimiento de las acciones se condic
 
 
 
+
 ![Medidas2](https://github.com/user-attachments/assets/2034016f-b517-4f3a-92d6-c61b5d5f976b)
+
 
 
 
