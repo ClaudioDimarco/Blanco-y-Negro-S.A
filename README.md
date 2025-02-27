@@ -13,7 +13,9 @@ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-histo
 
 
 
-Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
+Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. 
+Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. 
+Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
 
 
 
@@ -40,7 +42,8 @@ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de t
 
 
 
-Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
+Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
+En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
 
 
 
