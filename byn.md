@@ -16,10 +16,10 @@
 
 
 
-◦ Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. 
+◦ Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulación del set de datos en Excel. 
 
 ◦ Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. 
- Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
+ Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por día, año, mes, se agregaron gracias a la funcion AÑO, FECHA.
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-◦ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
+◦ Este set de datos consta de 3697 precio de acciones, que abarcan un periódo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-◦ A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
+◦ A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos gráficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
 
 ◦ Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
 
