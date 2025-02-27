@@ -1,9 +1,10 @@
 # Proyecto Blanco y Negro 
 
-En este proyecto se generara un análisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos financieros en la Bolsa de Santiago. 
-Este análisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversión. 
+◦ En este proyecto se generara un análisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos 
+ financieros en la Bolsa de Santiago. 
+◦ Este análisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversión. 
 
-Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-historical-data , en un archivo csv. 
+◦ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-historical-data , en un archivo csv. 
 
 
 
@@ -14,9 +15,9 @@ Se extraeran los datos de https://es.investing.com/equities/blanco-y-negro-histo
 
 
 
-Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. 
-Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. 
-Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
+◦ Se realizo una limpieza de datos y se crearon nuevas columnas para facilitar su proyección y lectura en Power BI, como tambien la manipulacion del set de datos en Excel. 
+◦ Se cambio el formato para la correcta lectura en Excel, a traves del asistente de convertidor de columnas y corregir errores de formato de fecha. 
+ Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por dia, luego el año, mes y dia, se agregaron gracias a la funcion AÑO, FECHA.
 
 
 
@@ -26,7 +27,7 @@ Las nuevas columnas agregadas fueron variacion, que es el retorno por accion por
 
 
 
-Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
+◦ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
 
 
 
@@ -44,8 +45,9 @@ Este set de datos consta de 3697 precio de acciones, que abarcan un periodo de t
 
 
 
-Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
-En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
+◦ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
+◦ En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. 
+◦ Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
 
 
 
@@ -61,8 +63,8 @@ En el proceso de transformacion de datos, se realizan  operaciones de calculo de
 
 
 
-Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
-Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
+◦ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
+◦ Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
 
 
 
@@ -76,7 +78,7 @@ Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc
 
 
 
-Para poder trabajar con los precios de las acciones y los datos de fecha se relaciona la nueva tabla Calendario junto con las fechas del set de datos original.
+◦ Para poder trabajar con los precios de las acciones y los datos de fecha se relaciona la nueva tabla Calendario junto con las fechas del set de datos original.
 
 
 
@@ -85,8 +87,8 @@ Para poder trabajar con los precios de las acciones y los datos de fecha se rela
 
 
 
-A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
-Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
+◦ A continuación se procede al proceso de carga en el ambiente de Power BI para visualizar las medidas que se calcularon con anterioridad a traves de distintos graficos. Estos pueden ser segmentados por año para lograr una mejor comprensión. 
+◦ Se visualizan precios promedio por año, retornos promedio por año, volumen total de acciones por año y precios máximos y minimos.
 
 
 
@@ -101,7 +103,7 @@ Se visualizan precios promedio por año, retornos promedio por año, volumen tot
 
 
 
-En el grafico de volumen de acciones podemos entender el comportamiento de las Empresas en la emisión de acciones las cuales pueden ser explicadas por diferentes razones. Las empresas pueden emitir un gran número de acciones al principio y luego reducirlas por varias razones estratégicas y financieras:
+◦ En el grafico de volumen de acciones podemos entender el comportamiento de las Empresas en la emisión de acciones las cuales pueden ser explicadas por diferentes razones. Las empresas pueden emitir un gran número de acciones al principio y luego reducirlas por varias razones estratégicas y financieras:
 
 1. Emisión Inicial de Muchas Acciones
 Cuando una empresa sale a bolsa (IPO) o necesita financiamiento, emite acciones para:
@@ -136,8 +138,8 @@ En resumen, las empresas comienzan con muchas acciones para atraer inversionista
 
 
 
-A continuación se puede dilucidar como el rendimiento de las acciones se condice con bajadas y subidas de precio. Aunque con matices, ya que en el rendimiento de una accion estan asociados diversos factores, entre ellos el pago de dividendos, el cual aunque disminuya el precio de una accion, el rendimiento pueda aumentar. 
-Tambien dependen de las distintas operaciones que maneje cada poseedor de acciones, desde las basicas: compra y venta, hasta las avanzadas: ventas en corto, opciones, contratos, recompra de acciones, etc.
+◦ A continuación se puede dilucidar como el rendimiento de las acciones se condice con bajadas y subidas de precio. Aunque con matices, ya que en el rendimiento de una accion estan asociados diversos factores, entre ellos el pago de dividendos, el cual aunque disminuya el precio de una accion, el rendimiento pueda aumentar. 
+◦ Tambien dependen de las distintas operaciones que maneje cada poseedor de acciones, desde las basicas: compra y venta, hasta las avanzadas: ventas en corto, opciones, contratos, recompra de acciones, etc.
 
 
 
@@ -151,7 +153,7 @@ Tambien dependen de las distintas operaciones que maneje cada poseedor de accion
 
 
 
-Conclusiones generales:
+◦ Conclusiones generales:
 
 Los rendimientos de las acciones estan asociadas a diferentes operaciones que se realicen en el mercado, por lo cual aunque exista una relación entre estos rendimientos estos no necesariamente son directamente proporcional, ya que dependen netamente de la operación que se este efectuando sobre el instrumento financiero.
 
