@@ -100,12 +100,16 @@
 
 
 
-![Presentacion](https://github.com/user-attachments/assets/9aff1be6-f4ae-4120-9eaf-796fcfce9470)
+
+![presentacion](https://github.com/user-attachments/assets/40de535c-c5ec-4b2b-8118-efa1515f6e34)
+
+
 
 
 
 
 ![medidas relevantes](https://github.com/user-attachments/assets/04dd0159-00af-4298-b040-fc769ae40371)
+
 
 
 
