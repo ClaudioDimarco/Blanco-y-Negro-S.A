@@ -43,9 +43,6 @@
 
 
 
-![final](https://github.com/user-attachments/assets/6ca15bf5-61d3-4381-b4c5-0364477f678b)
-
-
 
 
 ◦ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
