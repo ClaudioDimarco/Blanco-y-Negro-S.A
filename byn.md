@@ -1,6 +1,7 @@
 # Proyecto Blanco y Negro 
 
-◦ En este proyecto se generara un análisis descriptivo y exploratorio a las acciones de Blanco y Negro S.A, sociedad anónima que administra un club de futbol, que cotiza acciones y diversos instrumentos 
+◦ En este proyecto se generara un análisis descriptivo y exploratorio a los precios históricos de las acciones de Blanco y Negro S.A, sociedad anónima que 
+ administra un club de futbol, que cotiza acciones y diversos instrumentos 
  financieros en la Bolsa de Santiago. 
 
 ◦ Este análisis comprendera una forma de abordar los cambios del precio de las acciones para una eventual toma de decisiones de inversión. 
