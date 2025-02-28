@@ -120,18 +120,19 @@ Ampliar su base de accionistas para generar confianza en el mercado.
 2. Reducción del Número de Acciones en Circulación
 Más adelante, la empresa puede reducir las acciones disponibles en el mercado mediante estrategias como:
 
-🔹 Recompra de Acciones (Buyback)
+* Recompra de Acciones (Buyback)
 La empresa compra sus propias acciones, lo que puede:
 
 Aumentar el precio de las acciones (menos oferta, más demanda).
 Mejorar indicadores financieros como el beneficio por acción (BPA).
 Evitar una posible dilución en caso de futuras emisiones.
-🔹 Reverse Split (Consolidación de Acciones)
+
+* Reverse Split (Consolidación de Acciones)
 En ocasiones, las empresas agrupan varias acciones en una sola (ej. 10 acciones → 1 acción) para:
 
-Evitar que el precio caiga demasiado (acciones de centavos pueden ser vistas como poco confiables).
+Evitar que el precio caiga demasiado (acciones de bajo precio pueden ser vistas como poco confiables).
 Mantenerse en índices bursátiles que exigen precios mínimos (como el S&P 500 o Nasdaq).
-En resumen, las empresas comienzan con muchas acciones para atraer inversionistas y capital, pero después pueden reducirlas para mejorar su rendimiento financiero, mantener su valor y hacer más atractiva su participación en el mercado.
+Se puede decir que las empresas comienzan con muchas acciones para atraer inversionistas y capital, pero después pueden reducirlas para mejorar su rendimiento financiero, mantener su valor y hacer más atractiva su participación en el mercado.
 
 
 
