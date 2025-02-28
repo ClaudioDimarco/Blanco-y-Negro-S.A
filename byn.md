@@ -50,7 +50,7 @@
 
 ◦ Una vez hecha la extracción y limpieza se realiza la exportación a Power Query. 
 
-◦ En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas con la funcion DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. 
+◦ En el proceso de transformacion de datos, se realizan  operaciones de calculo de medidas funciones DAX, tales como: Precio máximo y minimo, retorno promedio, precios promedio y volumen total de accionens. 
 
 ◦ Esto con el fin de dar un mejor manejo de la información para ser utilizada en la visualización. Tambien se utilizan los formatos correspondientes para cada columna segun sea necesario.
 
@@ -68,7 +68,7 @@
 
 
 
-◦ Luego con la funcion CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
+◦ Luego con la función CALENDAR se genero un calendario para poder visualizar y analizar los precios históricos. 
 
 ◦ Se agregaron año, nombre día, mes, numero de semana, trimestres, semestre, etc. Estos son importantes para poder realizar el análisis de los datos ordenados segun el requerimiento de este.
 
