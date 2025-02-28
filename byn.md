@@ -30,7 +30,7 @@
 
 
 
-◦ Este set de datos consta de 3697 precio de acciones, que abarcan un periódo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
+◦ Este set de datos consta de 3.697 datos históricos de precios de acciones, que abarcan un periódo de tiempo desde el 12-01-2009 hasta el 11-02-2025.
 
 
 
