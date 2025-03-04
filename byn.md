@@ -140,8 +140,9 @@ Se puede decir que las empresas comienzan con muchas acciones para atraer invers
 
 
 
+![pagina 2](https://github.com/user-attachments/assets/57c3dc7d-d954-495b-8eeb-7a8540bebfcd)
 
-![Medidas 1](https://github.com/user-attachments/assets/b2fc082c-142b-45f2-8dc5-4948c7dcaffc)
+
 
 
 
@@ -154,12 +155,22 @@ Se puede decir que las empresas comienzan con muchas acciones para atraer invers
 
 
 
-![Medidas2](https://github.com/user-attachments/assets/2034016f-b517-4f3a-92d6-c61b5d5f976b)
+
+
+
+![pagina 3](https://github.com/user-attachments/assets/8c37ed1b-3de3-4695-9bda-36eadc3977ea)
 
 
 
 
-![Medidas3](https://github.com/user-attachments/assets/ffecbc52-4e56-4ba5-9b9a-f029caec893b)
+
+
+
+![Captura de pantalla 2025-03-04 184224](https://github.com/user-attachments/assets/cca3aa44-166b-4106-b778-47857005386f)
+
+
+
+
 
 
 
