@@ -98,14 +98,16 @@
 
 
 
-![presentacion](https://github.com/user-attachments/assets/40de535c-c5ec-4b2b-8118-efa1515f6e34)
+![Captura de pantalla 2025-03-24 064731](https://github.com/user-attachments/assets/c3c5265e-b226-4df6-ac3f-8a6d39c9267f)
 
 
 
 
 
 
-![medidas relevantes](https://github.com/user-attachments/assets/04dd0159-00af-4298-b040-fc769ae40371)
+![Captura de pantalla 2025-03-24 064538](https://github.com/user-attachments/assets/d36df0cf-c61f-4e3b-bce7-2373ec7fb3c7)
+
+
 
 
 
@@ -140,7 +142,8 @@ Se puede decir que las empresas comienzan con muchas acciones para atraer invers
 
 
 
-![pagina 2](https://github.com/user-attachments/assets/57c3dc7d-d954-495b-8eeb-7a8540bebfcd)
+
+![Captura de pantalla 2025-03-24 064554](https://github.com/user-attachments/assets/7c9cce77-dced-428d-9902-0a0c442d1c4a)
 
 
 
@@ -157,16 +160,30 @@ Se puede decir que las empresas comienzan con muchas acciones para atraer invers
 
 
 
-
-![pagina 3](https://github.com/user-attachments/assets/8c37ed1b-3de3-4695-9bda-36eadc3977ea)
-
+![Captura de pantalla 2025-03-24 064610](https://github.com/user-attachments/assets/dcebaba0-82dc-47a2-bb0c-3e9baaada1b3)
 
 
 
 
 
 
-![Captura de pantalla 2025-03-04 184224](https://github.com/user-attachments/assets/cca3aa44-166b-4106-b778-47857005386f)
+
+
+
+![Captura de pantalla 2025-03-24 064620](https://github.com/user-attachments/assets/a4c1be7e-9fb1-40d0-9339-57269b76327a)
+
+
+
+
+
+
+
+
+
+![Captura de pantalla 2025-03-24 064635](https://github.com/user-attachments/assets/6226bd18-f61f-4143-9f07-294acd2f11a8)
+
+
+
 
 
 
